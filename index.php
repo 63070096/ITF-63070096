@@ -5,7 +5,7 @@
         <body>
             <h1>My First Heading</h1>
             <p>My First Paragraph</p>
-            <img src="cat.jpg">
+            <img src="chino.jpg">
             <br>
             <a href="https://www.thairath.co.th">This is my favorite to read the politice news</a>
             <h2>The unordered list</h2>
