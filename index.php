@@ -3,9 +3,10 @@
         <tittle>hello world</tittle>
         <\head>
         <body>
-            <h1>My First Heading</h1>
-            <p>My First Paragraph</p>
+            <h1>My นายบารเมษฐ สายจันยูร/h1>
+            <p>ชื่อเล่น ม่อน>< </p>
             <img src="chino.jpg">
+            <img src="Thunderer.png">
             <br>
             <a href="https://www.thairath.co.th">This is my favorite to read the politice news</a>
             <h2>The unordered list</h2>
