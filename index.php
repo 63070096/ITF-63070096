@@ -34,11 +34,12 @@
       <tr>
         <td><?php echo $Result['Name'];?></div></td>
         <td><?php echo $Result['Comment'];?></td>
-	    <td></td>
+	    <td>
             <a herf="index.php?edit=<?php echo $row['id']; ?>"
                class="btn btn-info">Edit</a>
             <a herf="insert.php?delete=<?php echo $row['id']; ?>"
                class="btn btn-danger">Delete</a>
+	    </td>
       </tr>
     <?php
     }
