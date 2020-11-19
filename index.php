@@ -35,7 +35,6 @@
       <tr>
         <td><?php echo $Result['Name'];?></div></td>
         <td><?php echo $Result['Comment'];?></td>
-        <td><?php echo $Result['Link'];?></td>
         <td>
             <a herf="index.php?edit=<?php echo $row['id']; ?>"
                class="btn btn-info">Edit<</a>
@@ -60,10 +59,6 @@
             <div class="form-group">
             <label>Comment:</label>
             <input type="text" name="comment" class="form-control" value="Enter Your Comment">
-            </div>
-            <div class="form-group">
-            <label>Link:</label>
-            <input type="text" name="link" class="form-control" value="Enter Your Link">
             </div>
             <div class="form-group">
             <buttom type="submit" name="save">Save</buttom>
