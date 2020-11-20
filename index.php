@@ -22,7 +22,7 @@
 </head>
 <body>
     <div class="container">
-        <center><h1 style="padding-top: 5rem;">Tables</h1></center>
+        <center><h1 style="padding-top: 5rem;">Citizen Data</h1></center>
         <button type="button" data-toggle="modal" data-target="#modalAdd" class="btn btn-success btn-md float-right"><i class="fas fa-plus mr-1"></i>เพิ่มข้อมูล</button>
         <table class="table table-dark table-striped">
             <thead class="black white-text">
